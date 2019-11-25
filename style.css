@@ -1,0 +1,9 @@
+input[type=radio]{
+	display: block;
+	margin: 0 auto;
+}
+
+label{
+	display:inline-block;
+	margin:0.3%;
+}
